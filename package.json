@@ -1,7 +1,7 @@
 {
   "name": "uitk-list-binding-poc",
   "version": "1.0.0",
-  "displayName": "Hexgrid UITK",
+  "displayName": "UITK List Binding POC",
   "description": "Proof of concept of manual data binding between a listview and details using UI Toolkit (Unity)",
   "unitty": "2022.3",
   "author": {
