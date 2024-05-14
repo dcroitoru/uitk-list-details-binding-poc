@@ -1,8 +1,8 @@
 {
-  "name": "hexgrid-uitk-poc",
+  "name": "uitk-list-binding-poc",
   "version": "1.0.0",
   "displayName": "Hexgrid UITK",
-  "description": "Proof of concept of a hex grid built using UI Toolkit (Unity)",
+  "description": "Proof of concept of manual data binding between a listview and details using UI Toolkit (Unity)",
   "unitty": "2022.3",
   "author": {
     "name": "Denis Croitoru",
@@ -12,7 +12,7 @@
     {
       "displayName": "Demo",
       "description": "Demo",
-      "path": "uitk-hexgrid-poc/Samples~/Demo"
+      "path": "uitk-list-binding-poc/Samples~/Demo"
     }
   ]
 }

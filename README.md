@@ -1,1 +1,1 @@
-Proof of concept of a manual data binding between a listview and a details view
+Proof of concept of manual data binding between a listview and details using UI Toolkit (Unity)
